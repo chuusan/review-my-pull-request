@@ -24,7 +24,7 @@ piloting a starship.
 
 <div class="figure">
 
-<i https://i1.wp.com/twinfinite.net/wp-content/uploads/2015/11/harrison-ford-Mill_3222044i.jpg" alt="Most accomplished Star Wars pilot." width="100%" />
+<img src="https://starwarz.com/tbone/wp-content/uploads/2011/08/331.jpg" alt="Most accomplished Star Wars pilot." width="100%" />
 
 <p class="caption">
 
